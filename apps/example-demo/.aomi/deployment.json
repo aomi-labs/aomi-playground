@@ -10,7 +10,7 @@
     ]
   },
   "source": {
-    "commit": "828fe9464a39ef4eb93c188d72c19c07e85face0"
+    "commit": "693d362c1c33982a9ed3d26b791c374151add5d1"
   },
   "platform": {
     "name": "playground",
@@ -20,7 +20,7 @@
   "target": {
     "branch": "publish",
     "app_path": "apps/example-demo",
-    "release_tag": "apps-example-demo-828fe9464a39",
+    "release_tag": "apps-example-demo-693d362c1c33",
     "server_tags": [
       "staging"
     ]
@@ -33,12 +33,12 @@
   "files": [
     {
       "path": "Cargo.lock",
-      "sha256": "sha256:6a4ddac98d12f9c23cd14b4a733bad28e9b78a369b644b442ae56dad7dbc9997",
+      "sha256": "sha256:a163170ddf403418222b83da4f50829924b6c27f6274d62cf32c30aa5a85fafc",
       "bytes": 37975
     },
     {
       "path": "Cargo.toml",
-      "sha256": "sha256:73b8c3efd387b35d5a1793a67e9a52c82d87b5c8d0ca215b2e26cd4b4471c633",
+      "sha256": "sha256:d8f93a38d84b915aaab74ddf1d8e2a40ff002d38dd0a53cb03d049f2c3f214a2",
       "bytes": 395
     },
     {
@@ -57,5 +57,5 @@
       "bytes": 8900
     }
   ],
-  "updated_at": 1780486182
+  "updated_at": 1780487249
 }
