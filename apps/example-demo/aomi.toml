@@ -1,6 +1,6 @@
 [app]
 name = "example-demo"
-display_name = "Hyperliquid Trading Intelligence"
+display_name = "Aomi Example (example-demo)"
 platform = "playground"
 git = "https://github.com/aomi-labs/aomi-playground"
 public = true

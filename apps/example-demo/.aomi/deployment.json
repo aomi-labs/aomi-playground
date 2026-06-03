@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "example-demo",
-    "display_name": "Example Demo",
+    "display_name": "Aomi Example (example-demo)",
     "platform": "playground",
     "git": "https://github.com/aomi-labs/aomi-playground",
     "public": true,
@@ -10,7 +10,7 @@
     ]
   },
   "source": {
-    "commit": "693d362c1c33982a9ed3d26b791c374151add5d1"
+    "commit": "d212dec4cc8ad1b9200b58d30020483d72c3751f"
   },
   "platform": {
     "name": "playground",
@@ -20,7 +20,7 @@
   "target": {
     "branch": "publish",
     "app_path": "apps/example-demo",
-    "release_tag": "apps-example-demo-693d362c1c33",
+    "release_tag": "apps-example-demo-d212dec4cc8a",
     "server_tags": [
       "staging"
     ]
@@ -43,8 +43,8 @@
     },
     {
       "path": "aomi.toml",
-      "sha256": "sha256:902d3c6515fd7e535f36041e42afaaf816fe099e5297c50f79d88683195109e9",
-      "bytes": 195
+      "sha256": "sha256:e1c2cd010e44234d1d33f2f1d927aff3e6932920d92e4721befec419c1447d92",
+      "bytes": 190
     },
     {
       "path": "src/lib.rs",
@@ -57,5 +57,5 @@
       "bytes": 8900
     }
   ],
-  "updated_at": 1780487249
+  "updated_at": 1780488438
 }
