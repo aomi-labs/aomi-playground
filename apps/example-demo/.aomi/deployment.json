@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "example-demo",
+    "display_name": "Example Demo",
+    "platform": "playground",
+    "git": "https://github.com/aomi-labs/aomi-playground",
+    "public": true,
+    "server_tags": [
+      "staging"
+    ]
+  },
+  "source": {
+    "commit": "828fe9464a39ef4eb93c188d72c19c07e85face0"
+  },
+  "platform": {
+    "name": "playground",
+    "github_repo": "aomi-labs/aomi-playground",
+    "resolved_deploy_branch": "publish"
+  },
+  "target": {
+    "branch": "publish",
+    "app_path": "apps/example-demo",
+    "release_tag": "apps-example-demo-828fe9464a39",
+    "server_tags": [
+      "staging"
+    ]
+  },
+  "state": {
+    "pushed": true,
+    "deployed": true,
+    "activated": false
+  },
+  "files": [
+    {
+      "path": "Cargo.lock",
+      "sha256": "sha256:6a4ddac98d12f9c23cd14b4a733bad28e9b78a369b644b442ae56dad7dbc9997",
+      "bytes": 37975
+    },
+    {
+      "path": "Cargo.toml",
+      "sha256": "sha256:73b8c3efd387b35d5a1793a67e9a52c82d87b5c8d0ca215b2e26cd4b4471c633",
+      "bytes": 395
+    },
+    {
+      "path": "aomi.toml",
+      "sha256": "sha256:902d3c6515fd7e535f36041e42afaaf816fe099e5297c50f79d88683195109e9",
+      "bytes": 195
+    },
+    {
+      "path": "src/lib.rs",
+      "sha256": "sha256:3c3db6057e29362ee114c3673fac9cc9dcb4523cd463150f25df619cb753a3bc",
+      "bytes": 1753
+    },
+    {
+      "path": "src/tool.rs",
+      "sha256": "sha256:d5f8e85ba0dab4c8ee7f6c43d5e518cc226ef03660e01c475d6a1244d8073e63",
+      "bytes": 8900
+    }
+  ],
+  "updated_at": 1780481415
+}

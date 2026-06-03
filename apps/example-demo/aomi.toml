@@ -1,0 +1,7 @@
+[app]
+name = "example-demo"
+display_name = "Hyperliquid Trading Intelligence"
+platform = "playground"
+git = "https://github.com/aomi-labs/aomi-playground"
+public = true
+server_tags = ["staging"]
