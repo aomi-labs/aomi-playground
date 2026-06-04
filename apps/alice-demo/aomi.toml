@@ -1,0 +1,7 @@
+[app]
+name = "alice-demo"
+display_name = "Aomi Example (alice-demo)"
+platform = "playground"
+git = "https://github.com/aomi-labs/aomi-playground"
+public = true
+server_tags = ["staging"]
