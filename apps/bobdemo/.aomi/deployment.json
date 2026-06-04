@@ -1,0 +1,56 @@
+{
+  "app": {
+    "name": "bobdemo",
+    "display_name": "Aomi Example (bobdemo)",
+    "platform": "playground",
+    "git": "https://github.com/aomi-labs/aomi-playground",
+    "public": true,
+    "server_tags": [
+      "staging"
+    ]
+  },
+  "source": {
+    "commit": "ed12f08b2f4a56155176f55caf7540dcaf2474c2"
+  },
+  "platform": {
+    "name": "playground",
+    "github_repo": "aomi-labs/aomi-playground",
+    "resolved_deploy_branch": "publish"
+  },
+  "target": {
+    "branch": "publish",
+    "app_path": "apps/bobdemo",
+    "release_tag": "apps-bobdemo-ed12f08b2f4a",
+    "server_tags": [
+      "staging"
+    ]
+  },
+  "state": {
+    "pushed": true,
+    "deployed": true,
+    "activated": false
+  },
+  "files": [
+    {
+      "path": "Cargo.toml",
+      "sha256": "sha256:b5a545905ce7b36fca3f8ab467ca1d1331c3efcad1c88f3c85f5f92641eb70db",
+      "bytes": 390
+    },
+    {
+      "path": "aomi.toml",
+      "sha256": "sha256:cb011e524111f41bc8f6e469e191eddcbb8dedb4294091796d71c8023ae1e1b1",
+      "bytes": 180
+    },
+    {
+      "path": "src/lib.rs",
+      "sha256": "sha256:640055e78b44468b4399921f5ed2d64fe928ab39565e6e2a87065b179c5d020e",
+      "bytes": 1749
+    },
+    {
+      "path": "src/tool.rs",
+      "sha256": "sha256:d5f8e85ba0dab4c8ee7f6c43d5e518cc226ef03660e01c475d6a1244d8073e63",
+      "bytes": 8900
+    }
+  ],
+  "updated_at": 1780559057
+}

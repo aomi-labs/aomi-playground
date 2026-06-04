@@ -1,0 +1,7 @@
+[app]
+name = "bobdemo"
+display_name = "Aomi Example (bobdemo)"
+platform = "playground"
+git = "https://github.com/aomi-labs/aomi-playground"
+public = true
+server_tags = ["staging"]
